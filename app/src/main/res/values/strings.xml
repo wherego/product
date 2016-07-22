@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PerfectCommonBaseFrameWork</string>
+    <string name="home">首页</string>
+    <string name="message">消息</string>
+    <string name="log">日志</string>
+    <string name="mine">我</string>
+    <string name="start_experience">开始体验</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bottombar"
+    android:orientation="horizontal"
+  >
+
+    <RadioGroup
+        android:id="@+id/group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_bottombar_home"
+            style="@style/BottomMenuStyle"
+            android:drawableTop="@mipmap/home"
+            android:text="@string/home" />
+
+
+        <RadioButton
+            android:id="@+id/rb_bottombar_message"
+            style="@style/BottomMenuStyle"
+            android:drawableTop="@mipmap/chat"
+            android:text="@string/message" />
+
+
+        <RadioButton
+            android:id="@+id/rb_bottombar_logging"
+            style="@style/BottomMenuStyle"
+            android:drawableTop="@mipmap/order"
+            android:text="@string/log" />
+
+
+        <RadioButton
+            android:id="@+id/rb_bottombar_mine"
+            style="@style/BottomMenuStyle"
+            android:drawableTop="@mipmap/my"
+            android:text="@string/mine" />
+
+    </RadioGroup>
+
+</LinearLayout>
+
+

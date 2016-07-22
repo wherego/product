@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.LoginActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="login" />
+
+
+    <EditText
+        android:id="@+id/et_login_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="110010001877"
+        />
+
+    <EditText
+        android:id="@+id/et_login_pwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="B59C67BF196A4758191E42F76670CEBA"
+        />
+
+    <Button
+        android:id="@+id/btn_login_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="提交"
+        />
+
+    <TextView
+        android:text="加载数据"
+        android:visibility="gone"
+        android:id="@+id/tv_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

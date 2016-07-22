@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.4-beta2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9c8472f8e10502af60d0f63ea11eed68bdf690c2">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.4-beta2_a5d7cf5aeac76eddcd2faffa1c283cbc55dfc68c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.4-beta2\6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92\leakcanary-watcher-1.4-beta2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.4-beta2_8930e9db82ca053aa73295905792a92261454cc2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_c9369103b2dfbfa3846823a1469605e4d85e87b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_d0bca278318bc99d34bea60133095e2ef63a3180.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.2\a60c039ba54c73d1133b72178e1b04133c73d13d\adapter-rxjava-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.2_90b5adc83674072dffd251412472ef5d02e42ab2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.1.2\a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0\logging-interceptor-3.1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.1.2_30b270bb378363c5ded28421fff9202428fed071.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\exploded-aar\com.jude\easyrecyclerview\4.0.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0676d860622917393d2e99675765bd8dad6f2207">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\com.jude-easyrecyclerview-4.0.4_ba85290d150e569ef08d149535597a7a8e43558f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_ef69ae1c75e8c0b59eb461cacb0ae52e449cf07a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\exploded-aar\com.jude\rollviewpager\1.2.9\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9229a89cbb43d66d573e975cc3fdab425bec4372">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\com.jude-rollviewpager-1.2.9_87b987cb70be3d830ad443e6df02270645d8e814.jar" />
+    </item>
+    <item
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_408c15b258b89568cbbccabd36b36b4eb2b6e9bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\gson-2.6.1_7cd154ea7948a4454c775db22bc00deb7ba667b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.4-beta2\449777cd466ac0a16f7e8d0dc508e70e2cdd13a9\leakcanary-analyzer-1.4-beta2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="449777cd466ac0a16f7e8d0dc508e70e2cdd13a9">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.4-beta2_bc589143ab9961d400280c5df95f0866c53949a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_c70006980b1797e5c09cfc860349fd5b38a63399.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.1.0_17a8bab50e1abcd459f0ce1ddfdcd1561ef227f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cba3063326c996c6aa077469872fed428b15f9c">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_77882cd5515beb3bfb96cb81b1b6ca192b440998.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.2\df90a91dbb9a7d942361a5613b1666e38dca4844\rxjava-1.1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="df90a91dbb9a7d942361a5613b1666e38dca4844">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\rxjava-1.1.2_3ca674375be17008837713e1ccccb863c4c88601.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_4af25de61b22d6db91bb0078f9f1593173436307.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_a272ca635fc898c2fccb5c2ded7d1ab1115e881f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\1.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5264b71e1dc59a10268e0aafa38cb9a9c773a20d">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\jp.wasabeef-glide-transformations-1.3.1_69108b746bad16cd8474aa47a8dcb20bc4d0a8d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_b99cf6cae9930d1fa78a0499c55daa5aad8a3a47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_e97c4d684058659f4c78fd063d89ce0d8b400297.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b6dfe9fba41485e303c4c40b74ffe3618af60cb6">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\instant-run_a6059872e7cae445cc3430f7fa5c5eada26dc736.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\glide-3.6.1_4020668c253519df8db009e7f815b6fcc7d18017.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.2\fd65b84d12d6adc77ec0e4fcaca623fc391d8679\haha-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fd65b84d12d6adc77ec0e4fcaca623fc391d8679">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\haha-2.0.2_bf7137858285ff2850156bd9ad03ec720e349dec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\libs\systembartint-1.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\systembartint-1.0.3_a0d543f458f68f15cb1e8503ab9d5ed12f686a21.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Administrator\Desktop\PerfectCommonBaseFrameWork\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_df0ed16004a461275af7bebba1712a208ab49cbe.jar" />
+    </item>
+
+</items>
